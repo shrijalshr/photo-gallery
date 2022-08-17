@@ -1,8 +1,8 @@
 # photo-gallery is an ionic application that I built following the official documentation of ionicframework.
 
-<h1>What We'll Build</h1>
+<h1>What I Built</h1>
 <br>
-We'll create a Photo Gallery app that offers the ability to take photos with your device's camera, display them in a grid, and store them permanently on the device.
+I created a Photo Gallery app that offers the ability to take photos with your device's camera, display them in a grid, and store them permanently on the device.
 
 Highlights include:
 
@@ -13,10 +13,9 @@ One Angular-based codebase that runs on the web, iOS, and Android using Ionic Fr
 <li>
 Deployed as a native iOS and Android mobile app using Capacitor, Ionic's official native app runtime.
 </li><li>
+Photo Gallery functionality powered by the Capacitor Camera, Filesystem, and Storage APIs.
 
 </li>
-
-Photo Gallery functionality powered by the Capacitor Camera, Filesystem, and Storage APIs.
 
   </ul
 
@@ -38,6 +37,7 @@ Photo Gallery functionality powered by the Capacitor Camera, Filesystem, and Sto
 <li>About <a href="https://capacitorjs.com/"> capacitors </a> </li>
 <li> Used Camera Plugin to use native camera functionality</li> 
 <li>User Preference Plugin to save images locally as key-value pair</li>
+<li>Used Platform Plugin to differentiate platform</li>
 <li> </li>
 
 </ul>
